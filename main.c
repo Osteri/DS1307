@@ -1,4 +1,4 @@
-/* Change TWSR and TWPS in TWIPrimitives.h if your clock differs from 4 MHz. */
+/* Change TWSR and TWPS in TWIPrimitives.c if your clock differs from 4 MHz. */
 
 #define F_CPU 4000000UL 
 
